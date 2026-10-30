@@ -1,3 +1,4 @@
+
 # Wipr
 
 **A tiny disk tool that boots straight from a USB stick. No Linux, no Windows.**
@@ -67,4 +68,5 @@ your firmware (very old firmware may not see NVMe drives).
 2. Turn Secure Boot off in the BIOS.
 3. Boot the stick from the boot menu (F12 / F10 / Esc).
 4. Wipr starts on its own.
+<img width="624" height="1411" alt="0-02-05-2b53dd80747a13b70a21f5d2eb56ce7d0f3024ce84266fd0f4218f427a05300f_eacf90b792b6bdad" src="https://github.com/user-attachments/assets/5521a3ac-0891-47a9-ab07-6fac5b7965b3" />
 
