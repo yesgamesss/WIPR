@@ -8,12 +8,11 @@ Wipe, clone, partition and check drives from a colorful terminal. Made by **Rain
 > destroy data and **cannot be undone**. Always check the drive number with `disks`
 > before you type `YES`. You use this at your own risk.
 >
-> Wipr is young software. It has been tested in QEMU, and real-hardware testing is
-> still in progress. Try it on drives you don't care about first.
+> Wipr is young software. It has been tested in QEMU, it has also been tested in real hardware too
 
 ## Features
 
-- Own UEFI program (written in Rust), about 100 KB. Boots in seconds, runs from RAM
+- Own UEFI program (written in Rust), about 100 MB. Boots in seconds, runs from RAM
 - 64-bit **and** 32-bit UEFI in one image
 - Colored terminal, a progress bar with speed and ETA, scrollback (Up / Down / PgUp / PgDn)
 - Full-screen help menu (type `help` or press **F1**)
